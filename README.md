@@ -1,3 +1,3 @@
 # Front end - MERN Calendar
 
-Esta es la parte del front end de mi calendario que hice con MERN
+Esta es la parte del frontend de un proyecto de Calendario que hice con MERN
